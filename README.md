@@ -1,6 +1,8 @@
 # swgoh-gg-api-wrapper
 Google Sheet Library to help with making calls to swgoh.gg api without having to get your own api-key. It has 2 main functions you can choose between for making calls to the api. There is also a class available to use that has all endpoints mapped out to easily grab specific data.
 
+Get additional help and support for this sheet on my discord [Kidori's SWGoH Tools](https://discord.gg/Z3fWRWa77W).
+
 ## Table of Contents
 1. [Installing](#installing)
 2. [Available Functions](#available-functions)
