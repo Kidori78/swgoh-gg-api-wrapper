@@ -187,7 +187,7 @@ Search the code for UrlFetchApp and then replace it with the following
   let response = UrlFetchApp.fetch(url, options);
   
   //Example new code
-  let response = SWGOHGGAPIWrapper.fetchData(link)
+  let response = SWGOHGGAPIWrapper.fetchData(url)
 ```
 
 #### Using your own API Key
